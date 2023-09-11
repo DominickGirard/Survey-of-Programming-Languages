@@ -1,2 +1,2 @@
-val = input("Enter input --")
-print(val)
+val = input("Welcome. enter your name to contiue --")
+print("hello " + val)

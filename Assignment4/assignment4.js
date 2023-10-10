@@ -1,14 +1,15 @@
 const input = prompt("Enter an email address: ");
 
-// Regular expression with "students" as a required subdomain and ".edu" as a required top-level domain
-var emailRegex = /^[A-Za-z]{2}\d{4,5}@students\.(georgiasouthern|kennesaw|uga|gatech)\.edu$/;
+// Regular expression with capturing groups for username and domain
+var emailRegex = /^([A-Za-z]{2}\d{4,5})@students\.(georgiasouthern|kennesaw|uga|gatech)\.edu$/;
 
 var match = input.match(emailRegex);
 
 if (match) {
-    var domain = match[1];
+    var username = match[1];
+    var domain = match[2];
 
-    alert(" Domain: " + domain);
+    alert("Username: " + username + "\nDomain: " + domain);
 } else {
-    alert(" Invalid email address");
+    alert("Invalid email address");
 }

@@ -1,0 +1,15 @@
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\bin\Debug\net6.0\records.exe
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\bin\Debug\net6.0\records.deps.json
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\bin\Debug\net6.0\records.runtimeconfig.json
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\bin\Debug\net6.0\records.dll
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\bin\Debug\net6.0\records.pdb
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.csproj.AssemblyReference.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.AssemblyInfoInputs.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.AssemblyInfo.cs
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.csproj.CoreCompileInputs.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.dll
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\refint\records.dll
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.pdb
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\records.genruntimeconfig.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment4\c#\records\obj\Debug\net6.0\ref\records.dll

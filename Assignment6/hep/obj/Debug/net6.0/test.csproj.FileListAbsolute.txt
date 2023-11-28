@@ -1,0 +1,5 @@
+D:\GitHub\Survey-of-Programming-Languages\Assignment6\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment6\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Survey-of-Programming-Languages\Assignment6\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\GitHub\Survey-of-Programming-Languages\Assignment6\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\GitHub\Survey-of-Programming-Languages\Assignment6\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
